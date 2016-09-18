@@ -1,0 +1,62 @@
+"*":
+  "atom-jsfmt":
+    formatOnSave: false
+  "autocomplete-plus": {}
+  autosave:
+    enabled: true
+  blame: {}
+  "color-picker": {}
+  core:
+    disabledPackages: [
+      "jslint"
+    ]
+    openEmptyEditorOnStart: false
+    projectHome: "/Users/daneding/Projects"
+  editor:
+    fontSize: 68
+    invisibles: {}
+    lineHeight: 1
+    showIndentGuide: true
+  "exception-reporting":
+    userId: "80cebeb2-bfeb-ed70-daec-daba14264881"
+  "find-and-replace": {}
+  fonts:
+    fontFamily: "Source Code Pro"
+  "formatter-json":
+    json: {}
+  "fuzzy-finder":
+    preserveLastSearch: true
+  "git-diff":
+    showIconsInEditorGutter: true
+  "git-plus": {}
+  "highlight-column":
+    lineMode: true
+  jshint:
+    supportLintingJsx: true
+  jslint:
+    jslintVersion: "es6"
+    validateOnChange: true
+  linter: {}
+  "linter-eslint": {}
+  "linter-stylelint":
+    disableWhenNoConfig: true
+    useStandard: true
+  "merge-conflicts": {}
+  "node-debugger": {}
+  "one-light-ui": {}
+  "status-bar": {}
+  "svg-preview": {}
+  tabs:
+    enableVcsColoring: true
+  "terminal-plus":
+    core:
+      scrollback: 3000
+    style:
+      fontFamily: "Source Code Pro"
+      fontSize: "15"
+  "tool-bar":
+    visible: false
+  "tree-view":
+    hideVcsIgnoredFiles: false
+  welcome:
+    showOnStartup: false
